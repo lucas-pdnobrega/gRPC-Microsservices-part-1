@@ -1,6 +1,6 @@
 # Configurações
-$GITHUB_USERNAME = "ruandg"
-$GITHUB_EMAIL = "ruan.gomes@ifpb.edu.br"
+$GITHUB_USERNAME = "lucas-pdnobrega"
+$GITHUB_EMAIL = "lucaspdn04@gmail.com"
 
 $SERVICE_NAME = "order"
 $RELEASE_VERSION = "v1.2.3"
